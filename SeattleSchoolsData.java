@@ -28,7 +28,7 @@ SeattleSChoolData constructor takes String of csv file name
 Setup loadData method that parses the data (only if called)
 	-Parses to a String[] array (per third party csv parsing JAR, opencsv)
 	-Loop: String array needs to be passed into a unique School object for each school name
-	-Pass School.getName() as key, full school object as value into TreeMap
+	-Pass School.getName() as key, full school object as value
 */
 
 
